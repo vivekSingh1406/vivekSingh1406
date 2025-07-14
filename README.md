@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitksr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitksr&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekSingh1406&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekSingh1406&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 
-![Sumit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitksr&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+![vivek GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekSingh1406&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
 
 
 ---
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/vivek-singh-905449273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail">
+  <a href="https://mail.google.com">
     <img src="https://img.shields.io/badge/Profile-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
