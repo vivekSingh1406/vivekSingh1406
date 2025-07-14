@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 800px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 500px;" />
 </p>
 
 
 <p align="center">
   <span>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Vivek+Singh+Bais;I'm+a+Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Vivek+Singh;I'm+a+Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
     </a>
   </span>
 </p>
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently diving into **Full-Stack Web Development** & **Competitive Programming**
-- 🌱 Exploring the fascinating world of **Machine Learning**
+- 🌱 Exploring the fascinating world of **BigData(Hadoop, Spark)**
 - 🧠 Regular problem-solver on **LeetCode** and other coding platforms
 - 💬 Talk to me about **Java**, **DSA**, or anything tech!
 
@@ -36,15 +36,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mp14rajput)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumitksr?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap)
 </p>
-
----
-
-## 💻 Competitive Programming
-
-### 🔸 Codeforces  
-[![Codeforces](https://cf.leed.at?id=sumitksr)](https://codeforces.com/profile/sumitksr)
 
 ---
 
