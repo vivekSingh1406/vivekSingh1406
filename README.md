@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 500px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 600px;" />
 </p>
 
 
@@ -37,7 +37,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap" />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap)
 </p>
 
 ---
@@ -56,7 +55,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-< align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -74,15 +73,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumitksr/">
+  <a href="https://www.linkedin.com/in/vivek-singh-905449273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="viveksb1207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail">
+    <img src="https://img.shields.io/badge/Profile-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-
-> ⚡ *"Code, Learn, Build, Repeat."*
