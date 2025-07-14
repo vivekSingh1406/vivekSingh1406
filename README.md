@@ -37,6 +37,8 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap" />
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
 </p>
 
 ---
@@ -76,7 +78,7 @@
   <a href="https://www.linkedin.com/in/vivek-singh-905449273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com">
+  <a href="https://google.com">
     <img src="https://img.shields.io/badge/Profile-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
