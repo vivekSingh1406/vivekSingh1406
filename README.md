@@ -37,7 +37,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mp14rajput?theme=forest&font=Abel&ext=heatmap" />
-  <img src="https://leetcard.jacoblin.cool/mp14rajput?ext=contest" />
 </p>
 
 ---
