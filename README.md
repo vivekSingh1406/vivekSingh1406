@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Status
 
 - 👨‍💻 Solved ***700+ problems***
 - 💪 Focused on mastering **Data Structures & Algorithms**
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivekSingh1406&show_icons=true&theme=radical" alt="GitHub Stats" />
