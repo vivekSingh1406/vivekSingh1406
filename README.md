@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently diving into **Full-Stack Web Development** & **Competitive Programming**
+- 🔭 Currently diving into **Full-stack developer** & **Competitive Programming**
 - 🌱 Exploring the fascinating world of **BigData(Hadoop, Spark)**
 - 🧠 Regular problem-solver on **LeetCode** and other coding platforms
 - 💬 Talk to me about **Java**, **DSA**, or anything tech!
